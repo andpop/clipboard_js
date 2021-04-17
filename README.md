@@ -1,2 +1,4 @@
 # clipboard_js
-Work with images from clipboard
+Paste image from clipboard to page and upload this image to server.
+
+
